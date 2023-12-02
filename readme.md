@@ -24,7 +24,7 @@ License <br />
 # Getting Started
 
 # Prerequisites
-Python 3.x <br / >
+Python 3.x <br />
 Node.js and npm <br />
 
 # Installation
@@ -52,11 +52,11 @@ npm install
 
 # Backend APIs
 
-The backend consists of two APIs: <br/>
+The backend consists of two APIs: <br />
 
-### 1. Create Log API (/api/create-log): <br/>
+### 1. Create Log API (/api/create-log):
 
-This API accepts a POST request to create logs. It requires the following JSON payload: <br/>
+This API accepts a POST request to create logs. It requires the following JSON payload: <br />
 
 ```
 curl -X POST -H "Content-Type: application/json" -d '{"user_id": "123", "status": "success", "request_data": "some data", "response_data": "some response"}' http://localhost:5000/api/create-log
@@ -67,7 +67,7 @@ or by
 
 ### 2. Logs API (/api/logs):
 
-This API retrieves logs and supports filtering based on the provided time range. <br/ >
+This API retrieves logs and supports filtering based on the provided time range. <br />
 
 ## Frontend
 
@@ -75,34 +75,34 @@ The frontend is developed using React, providing a responsive and modern user in
 
 ## Dashboard Features
 
-Time Filter <br/ >
+Time Filter <br />
 The dashboard includes a time filter with three options: <br/ >
 
-Last 24 hours <br/ >
-Last 7 days <br/ >
-Custom time range <br/ >
-Total Unique Users <br/ >
-Displays the total number of unique users who have used the API within the selected time period. <br/ >
+Last 24 hours <br />
+Last 7 days <br />
+Custom time range <br />
+Total Unique Users <br />
+Displays the total number of unique users who have used the API within the selected time period. <br />
 
 ### Total Number of Calls
-Shows the total number of calls made to the API in the given time period. <br/ >
+Shows the total number of calls made to the API in the given time period. <br />
 
 ### Total Number of Failures
-Indicates the total number of API calls that failed in the given time period. Random API failures are simulated to demonstrate this feature. <br/ >
+Indicates the total number of API calls that failed in the given time period. Random API failures are simulated to demonstrate this feature. <br />
 
 ### Graphs
-The dashboard includes two graphs showing the number of users, calls, and failures over time within the selected time period. <br/ >
+The dashboard includes two graphs showing the number of users, calls, and failures over time within the selected time period. <br />
 
 ## Logs Table
 
-A table displays logs sorted by timestamp, featuring the following columns: <br/ >
+A table displays logs sorted by timestamp, featuring the following columns: <br />
 
-User ID <br/ >
-Timestamp <br/ >
-Status (Success or failure) <br/ >
-Error message (Present only if the status is failure) <br/ >
-Request (The request object) <br/ >
-Response (The response object) <br/ >
+User ID <br />
+Timestamp <br />
+Status (Success or failure) <br />
+Error message (Present only if the status is failure) <br />
+Request (The request object) <br />
+Response (The response object) <br />
 
 ## Running the Project
 
