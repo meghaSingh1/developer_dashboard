@@ -4,6 +4,8 @@ The project utilizes Flask for the backend APIs, React/JavaScript for the fronte
 
 ![dashboard](https://github.com/meghaSingh1/developer_dashboard/assets/30502286/b617be7f-45e2-4c82-9eaf-76b30246bfb5)
 
+Loom Demo Link: https://www.loom.com/share/956aa31534ef4ffc94e4786ee1c9a18b
+
 ## Table of Contents
 
 Getting Started <br />
