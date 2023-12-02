@@ -4,7 +4,7 @@ This project is designed to provide developers with insights into their API usag
 
 ## Table of Contents
 
-Getting Started
+Getting Started__
 Prerequisites
 Installation
 Backend APIs
