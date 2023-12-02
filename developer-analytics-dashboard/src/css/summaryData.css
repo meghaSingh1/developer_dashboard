@@ -1,0 +1,23 @@
+/* SummaryData.css */
+
+/* Add any styles you want to customize */
+.SummaryData {
+    max-width: 1150px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ecf0f1;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    gap: 35px;
+  }
+  
+.SummaryData h3 {
+color: #e74c3c;
+}
+
+.SummaryData p {
+margin: 10px 0;
+font-size: 16px;
+}
+ 
