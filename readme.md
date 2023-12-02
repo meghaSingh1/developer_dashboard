@@ -127,8 +127,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ![dashboard](https://github.com/meghaSingh1/developer_dashboard/assets/30502286/b617be7f-45e2-4c82-9eaf-76b30246bfb5)
 
+![dashboard3](https://github.com/meghaSingh1/developer_dashboard/assets/30502286/378db9f5-7d33-44b7-a190-8ec84efd26b5)
+
 ![dashboard2](https://github.com/meghaSingh1/developer_dashboard/assets/30502286/9b92ea93-29d4-411e-a71b-96c22d0dd97f)
 
-![dashboard3](https://github.com/meghaSingh1/developer_dashboard/assets/30502286/378db9f5-7d33-44b7-a190-8ec84efd26b5)
 
 
