@@ -26,6 +26,8 @@ License <br />
 # Prerequisites
 Python 3.x <br />
 Node.js and npm <br />
+Flask <br />
+React <br />
 
 # Installation
 1. Clone the repository:
